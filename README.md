@@ -9,7 +9,7 @@ A music app that lets you create or join music listening parties with your frien
 
 ## Create Info
 
-![Create Info](https://i.imgur.com/tYMQgGN.png)
+![Create Info](https://i.imgur.com/40MJU9n.png)
 
 ## Join Info
 
