@@ -27,7 +27,7 @@ A music app that lets you create or join music listening parties with your frien
 * Python
 * Django
 * SQL
-* Spotify
+* Spotify API
 
 ## Credits
 
