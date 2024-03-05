@@ -31,4 +31,4 @@ A music app that lets you create or join music listening parties with your frien
 
 ## Credits
 
-**Project Inspiration** - Clone of ["Django & React - Full Stack Web App Tutorial"](https://www.youtube.com/watch?v=JD-age0BPVo&list=PLzMcBGfZo4-kCLWnGmK0jUBmGLaJxvi4j) by [Tech With Tim](https://www.youtube.com/@TechWithTim)
+**Project Inspiration** - Variation on ["Django & React - Full Stack Web App Tutorial"](https://www.youtube.com/watch?v=JD-age0BPVo&list=PLzMcBGfZo4-kCLWnGmK0jUBmGLaJxvi4j) by [Tech With Tim](https://www.youtube.com/@TechWithTim)
