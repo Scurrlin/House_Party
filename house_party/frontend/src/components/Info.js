@@ -17,7 +17,7 @@ export default function Info(props) {
   }
 
   function createInfo() {
-    return "The CREATE page lets you play DJ and host a lisening party for your friends. Don't forget to send them the entry code!"
+    return "The CREATE page lets you play DJ and host a listening party for your friends. Don't forget to send them the entry code!"
   }
 
   useEffect(() => {
