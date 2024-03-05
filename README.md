@@ -7,17 +7,17 @@ A music app that lets you create or join music listening parties with your frien
 ![Greek Tragedy](https://i.imgur.com/Sp3PZLF.png)
 ![JJK Theme](https://i.imgur.com/mjyX2hq.png)
 
-## Create Room
+## Create Info
 
-![Create Room](https://i.imgur.com/mjyX2hq.png)
+![Create Info](https://i.imgur.com/mjyX2hq.png)
+
+## Join Info
+
+![Join Info](https://i.imgur.com/3b4DLpl.png)
 
 ## Join Room
 
-![Join Room](https://i.imgur.com/3b4DLpl.png)
-
-## Sample Post
-
-![Deployed!](https://i.imgur.com/U914TY4.png)
+![Join Room](https://i.imgur.com/16cbukD.png)
 
 ## Technologies Used
 * HTML/JS/CSS
