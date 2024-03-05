@@ -9,7 +9,7 @@ A music app that lets you create or join music listening parties with your frien
 
 ## Create Info
 
-![Create Info](https://i.imgur.com/mjyX2hq.png)
+![Create Info](https://i.imgur.com/tYMQgGN.png)
 
 ## Join Info
 
@@ -31,4 +31,4 @@ A music app that lets you create or join music listening parties with your frien
 
 ## Credits
 
-**Project Inspiration** - Clone of ["Node.js Blog"](https://www.youtube.com/watch?v=-foo92lFIto&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD) by [Raddy Dev](https://www.youtube.com/@RaddyDev) and the [Net Ninja](https://www.youtube.com/@NetNinja)
+**Project Inspiration** - Clone of ["Django & React - Full Stack Web App Tutorial"](https://www.youtube.com/watch?v=JD-age0BPVo&list=PLzMcBGfZo4-kCLWnGmK0jUBmGLaJxvi4j) by [Tech With Tim](https://www.youtube.com/@TechWithTim)
