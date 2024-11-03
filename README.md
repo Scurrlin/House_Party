@@ -22,7 +22,7 @@ A music app that lets you create or join listening parties with your friends!
 ## Technologies Used
 * HTML/JS/CSS
 * Bootstrap
-* React
+* ReactJS
 * Material-UI
 * Python
 * Django
