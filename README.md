@@ -1,4 +1,5 @@
 # House_Party
+
 A music app that lets you create or join listening parties with your friends! 
 
 ![banner_image](https://i.imgur.com/S8I1QNd.png)
