@@ -1,5 +1,5 @@
 # House_Party
-A music app that lets you create or join listening parties with your friends! 
+A music app that lets you create or join listening parties with your friends! Built with Python, React, SQL, and Spotify's Web API/Web Playback SDK. 
 
 ![banner_image](https://i.imgur.com/S8I1QNd.png)
 
